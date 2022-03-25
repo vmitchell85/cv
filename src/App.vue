@@ -83,7 +83,7 @@
                 <div><a class="text-orange-600" href="https://github.com/vmitchell85/laravel-cv">This Codebase</a></div>
             </div>
         </div>
-        <div class="max-w-5xl px-2 py-12 mx-auto">
+        <div class="max-w-5xl px-2 mx-auto my-12">
             <div class="my-6">
                 <h2>Education / Certifications</h2>
                 <div class="mx-2 my-4">
