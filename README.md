@@ -1,3 +1,3 @@
-# Laravel CV
+# Vince Mitchell
 
-This is my CV and application to work for Laravel LLC.
+This is my Curriculum vitae
